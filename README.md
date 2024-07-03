@@ -11,8 +11,8 @@
 
 2. Create a `.env` file in the root directory with the following content:
     ```
-    MONGO_URI=mongodb+srv://sujalverma1978:yuouupGphEYx1xCp@ecommerce.hlsdipq.mongodb.net/?retryWrites=true&w=majority&appName=ecommerce
-    JWT_SECRET=kumyxzwu
+    MONGO_URI=mongodb+srv://sujalverma1978:IuouupGphEYx1xCp@ecommerce.hlsdipq.mongodb.net/?retryWrites=true&w=majority&appName=ecommerce
+    JWT_SECRET=sabaoixe
     PORT=5000
     ```
 
